@@ -1,3 +1,5 @@
 class Dateutil{
 public void todate (){}
+// adding method timestamp
+public void timestamp(){}
 }
