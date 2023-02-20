@@ -3,4 +3,6 @@ public Class car{
 public void driver(){
 // driving car method
 }
+//creating method accelarate
+public void accelarate(){}
 }
