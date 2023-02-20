@@ -1,0 +1,6 @@
+public Class car{
+// adding driver method
+public void driver(){
+// driving car method
+}
+}
